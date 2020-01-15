@@ -1,5 +1,4 @@
 package edu.vcccd.vc.csv40;
-
 /**
  * CS V40 Beginning Java
  * Assignment: HelloWorld
